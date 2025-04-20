@@ -1,5 +1,6 @@
 # ALPR-VN (Automatic License Plate Recognition Vietnam) System
 An Automatic License Plate Recognition System for Vietnamese Plates.
+
 The system is developed for applications in automatic license plate recognition and vehicle management within parking facilities.
 
 # Method
